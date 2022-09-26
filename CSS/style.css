@@ -1,0 +1,16 @@
+* {
+    font-weight: bolder;
+    background-color: rgb(223, 168, 68);
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:aqua;
+    color: darkblue;
+}
+
+.title, .no-title {
+    font-family: cursive;
+    font-size: 3pc;
+    color: crimson;
+}
+
